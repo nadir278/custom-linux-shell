@@ -1,0 +1,2 @@
+Id Name day start end
+61589 Deep_learning monday 17:00 20:00
